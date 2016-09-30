@@ -1,0 +1,21 @@
+﻿/*
+<!-- Name: Ishan Sharma -->
+<!-- Student ID: 300856455 -->
+<!-- Date: September 30, 2016 -->
+<!-- My Portfolio -->
+*/
+
+body {
+    padding-bottom: 70px;
+    background-image: url('../Assets/images/943754_1150637644968221_8276149659312932091_n.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+    .jumbotron{
+                  background: rgb(200,54,54);
+                  background:rgba(255, 255, 255,0.5);
+                  text-align:left;
+                  background-attachment:fixed;
+              }
+
+
