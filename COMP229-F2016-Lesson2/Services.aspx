@@ -1,11 +1,22 @@
 ﻿<%@ Page Title="Services" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Services.aspx.cs" Inherits="COMP229_F2016_Lesson2.Services" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+    <div style="width:1000px; margin-left:auto; margin-right:auto;">
+<div style="background-color:rgba(45, 48, 165,0.5); padding:16px;">
     <div class="container">
         <div class="row">
-            <div class="col-md-offset-4 col-md-6">
-                <h1>Services</h1>
-                <p>Malesuada faucibus porta aliquam nec consequat eros sed porttitor placerat dolor, accumsan imperdiet neque ornare in aenean non elit non leo porta mattis mauris non dolor nunc, id congue odio donec tellus nisl, semper id consectetur vitae, dapibus dictum nisl morbi sed augue purus sed dictum diam convallis tortor interdum volutpat phasellus dapibus arcu sit amet neque vulputate sed elementum orci fringilla in hac habitasse platea dictumst maecenas ut dui diam curabitur adipiscing vestibulum libero, nec varius dui pulvinar eget vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; aliquam dui neque, varius eu laoreet vel.</p>
+             <div class="col-md-offset-3 col-md-5">
+          
+                <h1 class="h1"><b>Services</b></h1>
+                <p>I work as a Customer Service Representative Supervisor at Domino’s.</p>
+                    <ul>
+<li>Taking orders over phone and in person</li>
+<li> Building relationships with customers</li>
+<li>Up selling</li>
+<li> Cash handling</li>
+<li>To train the and guide the Junior CSR</li>
+<li> Assisting Pizza Makers with toppings and dough</li>
+                        </ul>
             </div>
         </div>
     </div>
