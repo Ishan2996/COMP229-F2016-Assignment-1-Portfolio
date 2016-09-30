@@ -70,6 +70,8 @@
     <Content Include="Assets\images\943754_1150637644968221_8276149659312932091_n.jpg" />
     <Content Include="Assets\images\bg.jpg" />
     <Content Include="Assets\images\cal.jpg" />
+    <Content Include="Assets\images\domino.png" />
+    <Content Include="Assets\images\event.png" />
     <Content Include="Assets\images\facebook.png" />
     <Content Include="Assets\images\game.jpg" />
     <Content Include="Assets\images\google.png" />
