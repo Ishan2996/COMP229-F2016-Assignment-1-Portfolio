@@ -73,6 +73,7 @@
 			<input name="Submit"  type="submit" value="Send" class="button" style="height: 35px; width: 123px;" ></strong></td>
 			<td class="auto-style4" style="width: 170px">
 			<strong><br>
+			&nbsp;&nbsp;
 			<input name="Reset"type="reset" value="Clear Form" class="button" style="height: 35px; width: 132px;"></strong></td>
 		</tr>
 

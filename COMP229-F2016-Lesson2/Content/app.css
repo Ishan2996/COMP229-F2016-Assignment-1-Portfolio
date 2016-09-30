@@ -13,12 +13,15 @@ body {
     color:white;
     font-size: medium;
 }
-    .jumbotron{
-                  background: rgb(200,54,54);
-                  background:rgba(255, 255, 255,0.5);
-                  text-align:left;
-                  background-attachment:fixed;
-              }
+.jumbotron {
+    background: rgb(200,54,54);
+    background: rgba(255, 255, 255,0.5);
+    text-align: left;
+    background-attachment: fixed;
+
+
+    min-width:200px;
+}
     .pic{
         
     margin-left:17%;
