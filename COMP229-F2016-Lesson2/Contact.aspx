@@ -10,7 +10,7 @@
           <img src="Assets/images/14079751_1231015573597094_6058228771169607429_n.jpg" class="pic" />  
           <h1 class="h1"><b>My Conatct Info</b></h1> <br /> 
                  <b>  Name: Ishan Sharma</b><br />
-                <b>Address: 360 Pitfield Road, Scarborough, Toronto, ON, M1S3E6</b><br />
+                <b>Address: 360 Pitfield Road, Toronto, ON, M1S3E6</b><br />
                 <b> E-mail: isharm14@my.centennialcollege.ca</b><br />
                 <b>  Phone: (+1) 416-509-1082</b><br />
                     <br>
@@ -67,13 +67,13 @@
 			<input name="phone" size="25"  type="text" placeholder="(xxx)-xxx-xxxx" style="height: 25px"></strong></td>
 		</tr>
                     
-                    		<tr>
-			<td class="auto-style1">
+<tr>
+			<td class="auto-style1" style="width: 297px">
 			<strong><br>
-			<input name="Submit" tabindex="25" type="submit" value="Send" class="button" style="height: 35px"></strong></td>
+			<input name="Submit"  type="submit" value="Send" class="button" style="height: 35px; width: 123px;" ></strong></td>
 			<td class="auto-style4" style="width: 170px">
 			<strong><br>
-			<input name="Reset" tabindex="27" type="reset" value="Clear Form" class="button" style="height: 35px; width: 107px;"></strong></td>
+			<input name="Reset"type="reset" value="Clear Form" class="button" style="height: 35px; width: 132px;"></strong></td>
 		</tr>
 
                    
