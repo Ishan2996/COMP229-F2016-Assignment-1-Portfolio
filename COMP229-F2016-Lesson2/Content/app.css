@@ -10,6 +10,8 @@ body {
     background-image: url('../Assets/images/943754_1150637644968221_8276149659312932091_n.jpg');
     background-attachment: fixed;
     background-size: cover;
+    color:white;
+    font-size: medium;
 }
     .jumbotron{
                   background: rgb(200,54,54);
@@ -19,10 +21,15 @@ body {
               }
     .pic{
         
-    margin-left:10%;
+    margin-left:17%;
     width: 60%;
     margin-top: 2%;
-    border-radius:30%
+    border-radius:55%
     }
+    .h1{
+        text-align: center;
+    }
+
+
 
 

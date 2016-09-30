@@ -2,13 +2,13 @@
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div style="width:1000px; margin-left:auto; margin-right:auto;">
-<div style="background-color:rgba(192,192,192,0.7); padding:16px;">
+<div style="background-color:rgba(45, 48, 165,0.5); padding:16px;">
 
     <div class="container">
         <div class="row">
             <div class="col-md-offset-3 col-md-5">
-          <img src="Assets/images/943754_1150637644968221_8276149659312932091_n.jpg" class="pic" />    
-          <h1><b>My Conatct Info</b></h1> <br /> 
+          <img src="Assets/images/14079751_1231015573597094_6058228771169607429_n.jpg" class="pic" />  
+          <h1 class="h1"><b>My Conatct Info</b></h1> <br /> 
                  <b>  Name: Ishan Sharma</b><br />
                 <b>Address: 360 Pitfield Road, Scarborough, Toronto, ON, M1S3E6</b><br />
                 <b> E-mail: isharm14@my.centennialcollege.ca</b><br />
@@ -36,7 +36,7 @@
                 
                 
                 <form name="membershipForm" action="mailto:isha.pinkstar.2991996@gmail.com" onsubmit="return validationOfForm()" method="post">
-              <h1><b>Your Conatct Info</b></h1>
+              <h1 class="h1"><b>Your Conatct Info</b></h1>
                      <table style="width: 65%; height: 307px;" class="leftTable">
                     
                     		<tr>

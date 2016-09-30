@@ -1,10 +1,14 @@
 ﻿<%@ Page Title="About Me" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="COMP229_F2016_Lesson2.About" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+    <div style="width:1000px; margin-left:auto; margin-right:auto;">
+<div style="background-color:rgba(45, 48, 165,0.5); padding:16px;">
+
     <div class="container">
         <div class="row">
-            <div class="col-md-offset-4 col-md-6">
-                <h1>About Me</h1>
+            <div class="col-md-offset-3 col-md-5">
+          <img src="Assets/images/bg.jpg" class="pic" />
+                <h1 class="h1"><b>About Me</b></h1>
                 <p>
                    <i><b>“The only way of finding the limits of the possible is by going beyond them into the impossible.”</b></i> 
 <br />
@@ -20,6 +24,8 @@
                     <br><br>
                     <b>My other fields of interest which I prefer doing during my leisure time is playing badminton, listening to music and reading books.</b>
                     <br /><br>
+            </div>
+        </div>
             </div>
         </div>
     </div>
