@@ -1,16 +1,21 @@
 ﻿<%@ Page Title="Contact Me" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="COMP229_F2016_Lesson2.Contact" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+    <div style="width:1000px; margin-left:auto; margin-right:auto;">
+<div style="background-color:rgba(192,192,192,0.7); padding:16px;">
+
     <div class="container">
         <div class="row">
-            <div class="col-md-offset-4 col-md-6">
-               
+            <div class="col-md-offset-3 col-md-5">
+          <img src="Assets/images/943754_1150637644968221_8276149659312932091_n.jpg" class="pic" />    
           <h1><b>My Conatct Info</b></h1> <br /> 
                  <b>  Name: Ishan Sharma</b><br />
                 <b>Address: 360 Pitfield Road, Scarborough, Toronto, ON, M1S3E6</b><br />
                 <b> E-mail: isharm14@my.centennialcollege.ca</b><br />
                 <b>  Phone: (+1) 416-509-1082</b><br />
                     <br>
+                
+                <br />
                 <a href="https://www.instagram.com/ishan_2996/">
                 <img src="Assets/images/insta.gif" width="65" height="65" />
                    </a>
@@ -24,9 +29,11 @@
                     <img src="Assets/images/google.png" height="65" width="65" />
                 </a>
                 <br />
+                <br />
                 
+                <hr />
                 <br />
-                <br />
+                
                 
                 <form name="membershipForm" action="mailto:isha.pinkstar.2991996@gmail.com" onsubmit="return validationOfForm()" method="post">
               <h1><b>Your Conatct Info</b></h1>
@@ -61,7 +68,7 @@
 		</tr>
                     
                     		<tr>
-			<td class="auto-style1" style="width: 297px">
+			<td class="auto-style1">
 			<strong><br>
 			<input name="Submit" tabindex="25" type="submit" value="Send" class="button" style="height: 35px"></strong></td>
 			<td class="auto-style4" style="width: 170px">
@@ -75,16 +82,18 @@
                 </table>
                 </form>
 
-
+            <hr />
 
             </div>
         </div>
     </div>
+    </div>
+        </div>
 </asp:Content>
 <asp:Content ID="Content3" runat="server" contentplaceholderid="head">
     <style type="text/css">
         .auto-style1 {
-            width: 442px;
+            width: 653px;
             height: 32px;
         }
         .auto-style2 {
@@ -92,7 +101,7 @@
             height: 50px;
         }
         .auto-style3 {
-            width: 442px;
+            width: 653px;
             height: 50px;
         }
         .auto-style4 {
@@ -100,7 +109,7 @@
             height: 32px;
         }
         .auto-style5 {
-            width: 442px;
+            width: 653px;
             height: 63px;
         }
         .auto-style6 {
@@ -108,7 +117,7 @@
             height: 63px;
         }
         .auto-style7 {
-            width: 442px;
+            width: 653px;
             height: 70px;
         }
         .auto-style8 {
@@ -117,7 +126,7 @@
         }
         .auto-style9 {
             height: 30px;
-            width: 442px;
+            width: 653px;
         }
         .auto-style10 {
             width: 231px;

@@ -16,7 +16,7 @@
         <tr>
             <td style="height: 250px">
                 <a href="http://studentweb.cencol.ca/isharm14/COMP-125/Assignment-1/Assignment-1.html">
-                    <img src="Assets/images/cal.jpg" width="150" height="150" />
+                    <img src="Assets/images/cal.jpg" width="190" height="200" />
                 </a>
             </td>
             <td style="height: 250px"><b>BMI is generally considered the best way to determine if an individual is at a healthy weight. Using BMI is popular because it is simple, quick, effective and applies to adult men and women, as well as children. BMI is a useful tool for quickly assessing weight classification. </b></td>
@@ -25,7 +25,7 @@
         <tr>
             <td style="height: 250px">
                 <a href="http://studentweb.cencol.ca/isharm14/COMP-125/Assignment-3/photos.htm">
-                    <img src="Assets/images/pg.gif" width="150" height="150" />
+                    <img src="Assets/images/pg.gif" width="190" height="200" />
                 </a>
             </td>
 
@@ -35,7 +35,7 @@
         <tr>
             <td style="height: 250px">
                  <a href="http://studentweb.cencol.ca/isharm14/COMP-125/Term-Project/termProject.html">
-                    <img src="Assets/images/game.jpg" width="150" height="200" />
+                    <img src="Assets/images/game.jpg" width="190" height="200" />
                 </a>
             </td>
             <td style="height: 250px"><b>The ultimate entertainer – ALIEN SMASHER. Games mirror the way the human mind was designed to learn. They motivate players to take risks and actions, persevere through failures, set and achieve increasingly difficult goals, and devote attention, time, and effort to acquiring knowledge and skills. The more you play with it, the harder it gets. </b></td>

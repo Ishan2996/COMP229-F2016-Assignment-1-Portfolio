@@ -17,5 +17,12 @@ body {
                   text-align:left;
                   background-attachment:fixed;
               }
+    .pic{
+        
+    margin-left:10%;
+    width: 60%;
+    margin-top: 2%;
+    border-radius:30%
+    }
 
 
